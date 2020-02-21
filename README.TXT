@@ -1,12 +1,11 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+A sample code for microwave written using core java concepts, optimised 
+to work fast and in a robust manner.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE:  MICROWAVE 
+PURPOSE OF PROJECT: IMPLEMENTATION OF BASICS LEARNED  
+VERSION or DATE:  19th Nov, 2017
+HOW TO START THIS PROJECT:  TO RUN THE SOURCODE USE BLUEJ
+AUTHORS: ASHISH PAPANAI 
+USER INSTRUCTIONS: STAR IF YOU LIKE THIS.
